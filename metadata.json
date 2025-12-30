@@ -1,0 +1,8 @@
+
+{
+  "name": "Dakity - Premium Nightlife Delivery",
+  "description": "An exclusive nightlife delivery platform for premium drinks, VIP experiences, and instant luxury service, featuring AI-powered concierge and voice assistants.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
